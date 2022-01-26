@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "menus.h": "c",
+        "time.h": "c",
+        "games.h": "c",
+        "tictactoe3d.h": "c",
+        "guessthenumber.h": "c",
+        "scoreboard.h": "c",
+        "conio.h": "c"
+    }
+}

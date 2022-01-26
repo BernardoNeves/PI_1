@@ -1,0 +1,9 @@
+void MainMenu();
+void GameSelect1();
+void GameSelect2();
+void ScoreSelect();
+void ScoreSelect1();
+void ScoreSelect2();
+void ScoreSelect3();
+void ScoreSelect4();
+void ScoreSelect5();

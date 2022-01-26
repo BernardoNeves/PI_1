@@ -1,0 +1,10 @@
+void ChooseWord();
+int DrawHangMan();
+void DrawStuff();
+void ShowWord();
+void PlayingMenu();
+void HangMan();
+void ResetGame();
+void SetAlreadyUsed(char answer);
+void GameWin();
+void ShowAlreadyUsed();
